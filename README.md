@@ -33,7 +33,7 @@ Run `yarn start` and Wire's web app will be available at:
 
 ### Status
 
-[![Build Status](https://travis-ci.org/wireapp/wire-webapp.svg?branch=dev)](https://travis-ci.org/wireapp/wire-webapp)
+[![Build Status](https://travis-ci.org/noculi/wire-darkmode-webapp.svg?branch=dev)](https://travis-ci.org/noculi/wire-darkmode-webapp)
 
 ### Translations
 
